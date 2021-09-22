@@ -10,9 +10,7 @@ function App() {
 
   return (
     <div className="App">
-      Learn React
-      <h1>hello</h1>
-      <h1>Hannah Time!!</h1>
+      <h1>Lunch Time!!</h1>
       <p>{!data ? "Loading..." : data}</p>
     </div>
   );
